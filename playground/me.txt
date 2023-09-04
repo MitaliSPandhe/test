@@ -1,0 +1,5 @@
+{{#user}}
+Name: Mitali
+Skills: HTML, CSS, JS, Bootstap
+Email: mitalipandhe@gmail.com
+{{/user}}
